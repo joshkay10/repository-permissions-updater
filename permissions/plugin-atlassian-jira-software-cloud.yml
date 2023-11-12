@@ -9,3 +9,5 @@ developers:
   - "bgvozdev"
   - "thombergs"
   - "atrigueiro"
+cd:
+  enabled: true
